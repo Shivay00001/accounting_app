@@ -1,0 +1,11 @@
+# Accounting Desktop App - Dependencies
+# Core
+ttkbootstrap>=1.10.1    # Modern themed Tkinter widgets
+pillow>=10.0.0          # Image handling for icons
+reportlab>=4.0.0        # PDF generation
+
+# Utilities
+requests>=2.31.0        # License server communication
+
+# Build
+pyinstaller>=6.0.0      # EXE packaging
